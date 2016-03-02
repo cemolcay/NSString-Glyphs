@@ -24,3 +24,9 @@ The path can then be used in any drawing code as you require:
 [[UIColor whiteColor] set];
 [glyphPath fill];
 ```
+
+### CocoaPods
+
+```
+pod 'NSStringGlyphs'
+```
